@@ -49,3 +49,7 @@ Para revision exhaustiva de recursos multimedia:
 ## Consultoria en Accesibilidad y Optimizacion de Imagenes
 
 Para optimizacion de catalogos visuales y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte a **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
