@@ -24,7 +24,7 @@ Desarrollado y mantenido por la division de plataformas digitales y comercio ele
 Requiere Python 3.8 o superior sin dependencias externas.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/image-seo-validator-mx.git
+git clone https://github.com/TAVARDT/image-seo-validator-mx.git
 cd image-seo-validator-mx
 python image_seo_validator.py https://empresa.com.mx
 ```
