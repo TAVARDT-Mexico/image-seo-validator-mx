@@ -1,14 +1,13 @@
 # Analizador de SEO para Imagenes y Accesibilidad Web
 
 [![Analizador SEO Imagenes](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/mx/analizador-seo-imagenes/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Revision de textos alt, compresion de recursos y velocidad de catalogo digital en Mexico.
 
-Desarrollado y mantenido por la division de plataformas digitales y comercio electronico de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y mantenido por la division de plataformas digitales y comercio electronico de **TAVARDT Mexico**.
 
----
+***
 
 ## Capacidades de Auditoria de SEO para Imagenes
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de plataformas digitales y comercio ele
 * **Carga Diferida (Lazy Loading)**: Comprobacion de directivas `loading="lazy"` para acelerar la presentacion visual.
 * **Puntuacion de Salud Visual**: Indice cuantitativo de 0 a 100 con recomendaciones tecnicas priorizadas.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python image_seo_validator.py https://empresa.com.mx
 Para generar salida estructurada JSON:
 
 ```bash
-python image_seo_validator.py https://empresa.com.mx --json
+python image_seo_validator.py https://empresa.com.mx -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para revision exhaustiva de recursos multimedia:
 
-* **[Analizador de SEO para Imagenes Oficial](https://tools.tavardt.com/mx/analizador-seo-imagenes/)**
+* **Analizador de SEO para Imagenes Oficial**
 * **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Consultoria en Accesibilidad y Optimizacion de Imagenes
 
-Para optimizacion de catalogos visuales y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte a **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para optimizacion de catalogos visuales y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte a **TAVARDT Mexico**.
