@@ -6,8 +6,6 @@
 
 Revision de textos alt, compresion de recursos y velocidad de catalogo digital en Mexico.
 
-Desarrollado y mantenido por la division de plataformas digitales y comercio electronico de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de SEO para Imagenes
@@ -38,15 +36,6 @@ python image_seo_validator.py https://empresa.com.mx -json
 
 ***
 
-## Diagnostico Completo en la Web
-
-Para revision exhaustiva de recursos multimedia:
-
-* **Analizador de SEO para Imagenes Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Consultoria en Accesibilidad y Optimizacion de Imagenes
 
 Para optimizacion de catalogos visuales y cumplimiento de Estandares W3C y Mejores Practicas Tecnicas, consulte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para optimizacion de catalogos visuales y cumplimiento de Estandares W3C y Mejor
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
