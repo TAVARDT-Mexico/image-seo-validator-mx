@@ -2,6 +2,7 @@
 
 [![Analizador SEO Imagenes](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/mx/analizador-seo-imagenes/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Revision de textos alt, compresion de recursos y velocidad de catalogo digital en Mexico.
 
@@ -57,6 +58,11 @@ Para optimizacion de catalogos visuales y cumplimiento de Estandares W3C y Mejor
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
 
 ***
 
